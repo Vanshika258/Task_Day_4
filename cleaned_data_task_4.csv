@@ -1,0 +1,301 @@
+order_id,order_date,ship_date,customer_name,segment,region,category,sub-category,product_name,sales,quantity,discount,profit,ship_mode,year,month,month_name,profit_margin,processing_time_(days),discount_band,sales_category
+ORD-1000,2023-01-05,2023-01-07,Eric Henderson,Consumer,Central,Office Supplies,Pens,Nature Pens,73.49,9,0.0,18.44,Standard Class,2023,1,January,0.25,2,No Discount,Low
+ORD-1001,2025-02-27,2025-03-02,Heidi Tapia,Corporate,West,Technology,Machines,Onto Machines,779.75,2,0.1,160.47,Standard Class,2025,2,February,0.21,3,Low Discount,High
+ORD-1002,2022-11-16,2022-11-20,Stephanie Green,Corporate,East,Furniture,Chairs,Suggest Chairs,972.89,9,0.3,183.0,First Class,2022,11,November,0.19,4,High Discount,High
+ORD-1003,2022-04-29,2022-05-03,Regina Garcia,Home Office,Central,Office Supplies,Pens,Scientist Pens,513.96,5,0.2,62.02,Same Day,2022,4,April,0.12,4,Medium Discount,High
+ORD-1004,2024-02-06,2024-02-10,Bailey Smith,Consumer,Central,Furniture,Furnishings,Letter Furnishings,649.39,1,0.1,33.55,Same Day,2024,2,February,0.05,4,Low Discount,High
+ORD-1005,2021-06-07,2021-06-09,Rebecca Jones,Corporate,Central,Office Supplies,Binders,Past Binders,451.57,10,0.1,120.72,Second Class,2021,6,June,0.27,2,Low Discount,Medium
+ORD-1006,2025-01-29,2025-01-31,John Jackson,Consumer,West,Office Supplies,Labels,Article Labels,946.07,2,0.2,38.62,Standard Class,2025,1,January,0.04,2,Medium Discount,High
+ORD-1007,2022-10-20,2022-10-24,Kristin York,Home Office,Central,Furniture,Bookcases,Theory Bookcases,667.63,6,0.3,111.25,First Class,2022,10,October,0.17,4,High Discount,High
+ORD-1008,2021-06-05,2021-06-10,Jared Rivers,Consumer,Central,Technology,Machines,Reveal Machines,375.12,8,0.1,31.76,Standard Class,2021,6,June,0.08,5,Low Discount,Medium
+ORD-1009,2021-12-16,2021-12-20,Heather Bowman,Home Office,Central,Office Supplies,Binders,Long Binders,788.69,3,0.3,153.48,First Class,2021,12,December,0.19,4,High Discount,High
+ORD-1010,2024-11-13,2024-11-18,Chris Montgomery,Corporate,East,Furniture,Bookcases,Blood Bookcases,311.93,2,0.1,36.22,Second Class,2024,11,November,0.12,5,Low Discount,Medium
+ORD-1011,2023-10-06,2023-10-08,Jill Mitchell,Consumer,West,Technology,Machines,Realize Machines,872.28,10,0.0,103.03,Same Day,2023,10,October,0.12,2,No Discount,High
+ORD-1012,2025-03-18,2025-03-20,Taylor Spencer,Consumer,West,Office Supplies,Paper,Movie Paper,632.51,6,0.0,58.72,First Class,2025,3,March,0.09,2,No Discount,High
+ORD-1013,2023-05-19,2023-05-21,Belinda Martin MD,Home Office,South,Technology,Machines,Though Machines,689.5,2,0.3,31.06,Standard Class,2023,5,May,0.05,2,High Discount,High
+ORD-1014,2024-05-24,2024-05-29,Jonathan Horne,Home Office,Central,Technology,Accessories,Be Accessories,751.05,2,0.2,79.52,Second Class,2024,5,May,0.11,5,Medium Discount,High
+ORD-1015,2021-09-22,2021-09-27,Cynthia Smith,Corporate,Central,Office Supplies,Pens,Free Pens,368.92,8,0.0,44.03,Second Class,2021,9,September,0.12,5,No Discount,Medium
+ORD-1016,2024-05-30,2024-05-31,Angelica Fisher,Consumer,East,Technology,Accessories,Wear Accessories,479.14,7,0.1,109.03,First Class,2024,5,May,0.23,1,Low Discount,Medium
+ORD-1017,2023-08-11,2023-08-16,Stacy Rocha,Home Office,South,Office Supplies,Binders,Energy Binders,240.32,2,0.3,49.13,Second Class,2023,8,August,0.2,5,High Discount,Medium
+ORD-1018,2023-09-14,2023-09-18,Allen Hall,Consumer,East,Office Supplies,Labels,Glass Labels,486.44,9,0.1,66.68,Standard Class,2023,9,September,0.14,4,Low Discount,Medium
+ORD-1019,2021-12-21,2021-12-24,Lauren Rivas,Consumer,Central,Furniture,Furnishings,Purpose Furnishings,75.49,4,0.0,18.9,Same Day,2021,12,December,0.25,3,No Discount,Low
+ORD-1020,2021-11-13,2021-11-18,Arthur Wang,Consumer,West,Technology,Accessories,Among Accessories,168.52,4,0.1,37.03,Same Day,2021,11,November,0.22,5,Low Discount,Medium
+ORD-1021,2022-10-17,2022-10-21,Melissa Roberts,Consumer,Central,Technology,Phones,Some Phones,810.4,6,0.2,148.2,Standard Class,2022,10,October,0.18,4,Medium Discount,High
+ORD-1022,2024-06-30,2024-07-03,Stephanie Berry,Home Office,South,Technology,Machines,Maybe Machines,637.41,1,0.2,59.33,Same Day,2024,6,June,0.09,3,Medium Discount,High
+ORD-1023,2023-01-05,2023-01-07,Mary Munoz,Home Office,South,Furniture,Bookcases,Pass Bookcases,222.96,8,0.2,9.62,Second Class,2023,1,January,0.04,2,Medium Discount,Medium
+ORD-1024,2024-11-22,2024-11-23,Amanda Tate,Home Office,Central,Furniture,Chairs,Voice Chairs,232.07,5,0.0,42.79,First Class,2024,11,November,0.18,1,No Discount,Medium
+ORD-1025,2021-07-12,2021-07-14,Michael Foster,Home Office,Central,Furniture,Furnishings,Maybe Furnishings,761.28,10,0.2,45.61,First Class,2021,7,July,0.06,2,Medium Discount,High
+ORD-1026,2024-05-21,2024-05-23,Derek Taylor,Consumer,South,Office Supplies,Pens,Begin Pens,517.04,4,0.3,72.59,Same Day,2024,5,May,0.14,2,High Discount,High
+ORD-1027,2023-10-29,2023-10-30,Amy Macdonald,Consumer,South,Technology,Machines,There Machines,827.13,4,0.1,52.03,Standard Class,2023,10,October,0.06,1,Low Discount,High
+ORD-1028,2023-08-27,2023-09-01,Robert Gonzales,Consumer,Central,Furniture,Tables,Movie Tables,555.0,7,0.2,124.39,Same Day,2023,8,August,0.22,5,Medium Discount,High
+ORD-1029,2022-11-22,2022-11-25,Robert Freeman,Home Office,East,Office Supplies,Pens,Bed Pens,358.0,2,0.2,78.92,Standard Class,2022,11,November,0.22,3,Medium Discount,Medium
+ORD-1030,2021-08-24,2021-08-28,Calvin White,Corporate,Central,Office Supplies,Labels,Whole Labels,72.97,6,0.3,8.6,Standard Class,2021,8,August,0.12,4,High Discount,Low
+ORD-1031,2021-11-14,2021-11-16,Alexandria Powell,Corporate,Central,Furniture,Furnishings,Us Furnishings,429.94,4,0.2,79.99,Standard Class,2021,11,November,0.19,2,Medium Discount,Medium
+ORD-1032,2022-07-12,2022-07-14,Bradley Acosta,Consumer,East,Furniture,Bookcases,Sing Bookcases,119.65,8,0.3,10.93,First Class,2022,7,July,0.09,2,High Discount,Medium
+ORD-1033,2025-02-17,2025-02-18,Brian Villegas,Consumer,Central,Office Supplies,Paper,Budget Paper,170.46,5,0.2,32.63,Second Class,2025,2,February,0.19,1,Medium Discount,Medium
+ORD-1034,2022-04-26,2022-05-01,David Smith,Consumer,South,Technology,Machines,Must Machines,395.76,4,0.1,75.35,Second Class,2022,4,April,0.19,5,Low Discount,Medium
+ORD-1035,2024-01-06,2024-01-10,Mario Lang,Home Office,West,Office Supplies,Paper,Study Paper,948.93,5,0.3,136.56,Second Class,2024,1,January,0.14,4,High Discount,High
+ORD-1036,2023-12-30,2023-12-31,Ms. Lisa Hill MD,Consumer,South,Technology,Copiers,Sing Copiers,392.98,4,0.3,35.68,Same Day,2023,12,December,0.09,1,High Discount,Medium
+ORD-1037,2022-03-02,2022-03-03,Sergio Rodriguez,Corporate,West,Technology,Phones,Democrat Phones,711.33,4,0.1,124.75,First Class,2022,3,March,0.18,1,Low Discount,High
+ORD-1038,2023-02-10,2023-02-15,Kathleen Black,Consumer,South,Technology,Machines,Task Machines,460.95,5,0.0,76.11,Same Day,2023,2,February,0.17,5,No Discount,Medium
+ORD-1039,2025-02-24,2025-02-26,Brian Stewart,Home Office,East,Technology,Copiers,Evidence Copiers,394.08,7,0.2,86.05,Standard Class,2025,2,February,0.22,2,Medium Discount,Medium
+ORD-1040,2024-05-15,2024-05-16,James Gates,Home Office,South,Technology,Accessories,Campaign Accessories,136.93,9,0.3,5.49,Standard Class,2024,5,May,0.04,1,High Discount,Medium
+ORD-1041,2025-01-17,2025-01-20,Erik Castro,Corporate,East,Furniture,Tables,Me Tables,931.15,8,0.3,48.71,Second Class,2025,1,January,0.05,3,High Discount,High
+ORD-1042,2022-10-31,2022-11-04,David Miller,Consumer,Central,Technology,Copiers,Person Copiers,984.7,4,0.3,114.33,Second Class,2022,10,October,0.12,4,High Discount,High
+ORD-1043,2021-09-04,2021-09-07,Dustin Adams,Home Office,Central,Technology,Phones,Boy Phones,441.26,2,0.1,104.49,First Class,2021,9,September,0.24,3,Low Discount,Medium
+ORD-1044,2022-07-11,2022-07-14,Ian Vaughan,Consumer,East,Technology,Phones,Must Phones,741.71,3,0.1,123.95,Standard Class,2022,7,July,0.17,3,Low Discount,High
+ORD-1045,2024-12-28,2025-01-01,Lacey Smith,Corporate,Central,Office Supplies,Binders,If Binders,668.06,6,0.1,140.55,First Class,2024,12,December,0.21,4,Low Discount,High
+ORD-1046,2024-12-04,2024-12-08,Larry Wilson,Consumer,East,Furniture,Bookcases,Job Bookcases,734.42,10,0.3,128.87,Second Class,2024,12,December,0.18,4,High Discount,High
+ORD-1047,2023-09-05,2023-09-09,Colleen Hernandez,Home Office,South,Technology,Machines,Nice Machines,434.02,2,0.1,68.08,First Class,2023,9,September,0.16,4,Low Discount,Medium
+ORD-1048,2023-05-25,2023-05-30,William Chang,Corporate,East,Office Supplies,Binders,Realize Binders,244.92,4,0.1,46.74,Second Class,2023,5,May,0.19,5,Low Discount,Medium
+ORD-1049,2025-01-06,2025-01-08,Courtney Weaver,Corporate,Central,Furniture,Furnishings,Huge Furnishings,228.99,4,0.2,49.41,Second Class,2025,1,January,0.22,2,Medium Discount,Medium
+ORD-1050,2022-09-08,2022-09-11,Barry Reid,Corporate,East,Office Supplies,Binders,Clear Binders,416.02,9,0.2,21.68,Standard Class,2022,9,September,0.05,3,Medium Discount,Medium
+ORD-1051,2021-07-23,2021-07-25,Leah Sims,Home Office,South,Office Supplies,Labels,Might Labels,750.71,2,0.2,134.85,First Class,2021,7,July,0.18,2,Medium Discount,High
+ORD-1052,2023-09-08,2023-09-12,Richard Carter,Consumer,Central,Office Supplies,Labels,Leave Labels,450.61,3,0.1,107.47,First Class,2023,9,September,0.24,4,Low Discount,Medium
+ORD-1053,2025-02-20,2025-02-25,Steven Hanson,Consumer,East,Office Supplies,Pens,Often Pens,499.33,5,0.2,44.49,Standard Class,2025,2,February,0.09,5,Medium Discount,Medium
+ORD-1054,2024-12-17,2024-12-20,David Nicholson,Home Office,West,Technology,Copiers,At Copiers,533.48,7,0.1,98.25,Same Day,2024,12,December,0.18,3,Low Discount,High
+ORD-1055,2021-07-05,2021-07-09,Zachary Chen,Home Office,East,Technology,Accessories,Issue Accessories,777.72,2,0.1,191.27,Second Class,2021,7,July,0.25,4,Low Discount,High
+ORD-1056,2021-11-19,2021-11-22,Andrea Patterson,Corporate,East,Technology,Phones,Republican Phones,665.61,7,0.2,30.95,Second Class,2021,11,November,0.05,3,Medium Discount,High
+ORD-1057,2021-12-07,2021-12-08,Kristi Moore,Home Office,South,Furniture,Bookcases,Avoid Bookcases,651.77,8,0.2,45.16,Standard Class,2021,12,December,0.07,1,Medium Discount,High
+ORD-1058,2023-12-04,2023-12-06,Scott Ross,Corporate,East,Furniture,Tables,Quality Tables,191.55,10,0.3,7.71,First Class,2023,12,December,0.04,2,High Discount,Medium
+ORD-1059,2024-02-14,2024-02-15,Brent Williams,Home Office,East,Technology,Copiers,Toward Copiers,593.61,10,0.1,32.51,First Class,2024,2,February,0.05,1,Low Discount,High
+ORD-1060,2025-03-08,2025-03-09,John Morgan,Consumer,East,Technology,Machines,Begin Machines,454.22,7,0.3,76.11,Standard Class,2025,3,March,0.17,1,High Discount,Medium
+ORD-1061,2024-06-21,2024-06-23,Janice Perez DDS,Home Office,Central,Furniture,Tables,Also Tables,601.19,2,0.3,50.03,Second Class,2024,6,June,0.08,2,High Discount,High
+ORD-1062,2023-04-04,2023-04-05,Lindsay Walker,Home Office,South,Technology,Copiers,Job Copiers,668.34,9,0.0,39.85,Standard Class,2023,4,April,0.06,1,No Discount,High
+ORD-1063,2022-08-09,2022-08-13,Larry Moses,Consumer,South,Furniture,Chairs,Young Chairs,927.23,5,0.2,207.57,Same Day,2022,8,August,0.22,4,Medium Discount,High
+ORD-1064,2022-04-30,2022-05-02,Kayla Wagner,Home Office,South,Technology,Accessories,Church Accessories,323.64,10,0.0,67.55,Second Class,2022,4,April,0.21,2,No Discount,Medium
+ORD-1065,2024-07-27,2024-08-01,Sarah Huerta,Consumer,West,Technology,Copiers,Its Copiers,351.81,4,0.1,18.45,First Class,2024,7,July,0.05,5,Low Discount,Medium
+ORD-1066,2024-10-17,2024-10-18,Terry Lee,Corporate,West,Technology,Accessories,Whole Accessories,487.92,6,0.0,141.24,Second Class,2024,10,October,0.29,1,No Discount,Medium
+ORD-1067,2024-11-01,2024-11-05,Jeremiah Smith,Consumer,East,Furniture,Chairs,Determine Chairs,194.24,3,0.3,7.04,First Class,2024,11,November,0.04,4,High Discount,Medium
+ORD-1068,2024-09-23,2024-09-24,Donna Flores,Corporate,South,Technology,Copiers,Human Copiers,229.98,1,0.3,11.71,Second Class,2024,9,September,0.05,1,High Discount,Medium
+ORD-1069,2024-08-10,2024-08-15,Jessica Barr,Consumer,Central,Technology,Phones,Sense Phones,982.66,4,0.3,164.55,Standard Class,2024,8,August,0.17,5,High Discount,High
+ORD-1070,2022-09-04,2022-09-05,Steven Mckee PhD,Corporate,West,Furniture,Tables,Mind Tables,890.78,6,0.0,112.53,Standard Class,2022,9,September,0.13,1,No Discount,High
+ORD-1071,2024-09-27,2024-09-30,Roberta Owens,Corporate,Central,Office Supplies,Binders,Rise Binders,331.47,8,0.3,57.2,Second Class,2024,9,September,0.17,3,High Discount,Medium
+ORD-1072,2024-08-31,2024-09-04,Deborah Perry,Consumer,South,Office Supplies,Binders,Happen Binders,963.66,5,0.0,284.45,First Class,2024,8,August,0.3,4,No Discount,High
+ORD-1073,2021-09-14,2021-09-15,Adrian Roberts,Home Office,Central,Office Supplies,Labels,Be Labels,441.46,8,0.1,93.14,Second Class,2021,9,September,0.21,1,Low Discount,Medium
+ORD-1074,2022-04-29,2022-05-02,Ashley Maxwell,Corporate,West,Office Supplies,Labels,Sea Labels,136.19,4,0.3,13.39,Same Day,2022,4,April,0.1,3,High Discount,Medium
+ORD-1075,2021-07-14,2021-07-17,Tim Griffith,Corporate,Central,Technology,Accessories,Soon Accessories,892.44,3,0.1,218.85,Second Class,2021,7,July,0.25,3,Low Discount,High
+ORD-1076,2022-03-26,2022-03-31,Joan Suarez,Consumer,Central,Furniture,Furnishings,Serve Furnishings,921.91,5,0.1,73.1,First Class,2022,3,March,0.08,5,Low Discount,High
+ORD-1077,2021-08-05,2021-08-08,Michael Mccann,Consumer,West,Technology,Phones,Debate Phones,756.37,2,0.2,109.61,Standard Class,2021,8,August,0.14,3,Medium Discount,High
+ORD-1078,2024-10-19,2024-10-22,Billy Spencer,Home Office,West,Furniture,Chairs,Threat Chairs,165.88,3,0.1,41.99,First Class,2024,10,October,0.25,3,Low Discount,Medium
+ORD-1079,2023-07-01,2023-07-04,Rebekah Edwards,Consumer,South,Office Supplies,Labels,Need Labels,897.55,2,0.1,210.21,Second Class,2023,7,July,0.23,3,Low Discount,High
+ORD-1080,2023-06-07,2023-06-10,Bradley Campos,Corporate,South,Furniture,Tables,North Tables,208.42,2,0.1,17.38,Second Class,2023,6,June,0.08,3,Low Discount,Medium
+ORD-1081,2021-08-15,2021-08-19,Jimmy Gonzalez,Home Office,Central,Technology,Copiers,Feeling Copiers,951.79,8,0.0,124.46,Same Day,2021,8,August,0.13,4,No Discount,High
+ORD-1082,2023-09-13,2023-09-18,Brian Stephens,Home Office,Central,Furniture,Chairs,Prevent Chairs,805.27,10,0.0,172.85,Same Day,2023,9,September,0.21,5,No Discount,High
+ORD-1083,2023-03-27,2023-04-01,Kaitlyn Burke,Corporate,South,Technology,Machines,Program Machines,489.31,10,0.0,125.75,First Class,2023,3,March,0.26,5,No Discount,Medium
+ORD-1084,2023-10-28,2023-10-30,Yvonne Sutton,Home Office,Central,Office Supplies,Pens,Beat Pens,331.56,9,0.3,27.87,First Class,2023,10,October,0.08,2,High Discount,Medium
+ORD-1085,2023-11-27,2023-11-28,Jennifer Walsh,Home Office,East,Technology,Copiers,Others Copiers,866.2,10,0.0,85.22,Standard Class,2023,11,November,0.1,1,No Discount,High
+ORD-1086,2025-01-09,2025-01-12,Kevin Bean,Consumer,East,Technology,Phones,Begin Phones,979.11,5,0.0,127.89,First Class,2025,1,January,0.13,3,No Discount,High
+ORD-1087,2022-03-20,2022-03-22,Matthew Patterson,Home Office,East,Furniture,Tables,And Tables,666.3,1,0.2,152.13,Standard Class,2022,3,March,0.23,2,Medium Discount,High
+ORD-1088,2022-03-19,2022-03-22,Katherine Reyes,Consumer,Central,Furniture,Tables,Begin Tables,627.43,2,0.0,35.68,First Class,2022,3,March,0.06,3,No Discount,High
+ORD-1089,2022-05-22,2022-05-25,David Kennedy,Home Office,South,Office Supplies,Binders,Improve Binders,809.15,7,0.2,38.08,Same Day,2022,5,May,0.05,3,Medium Discount,High
+ORD-1090,2025-04-12,2025-04-15,Angela Mckee,Home Office,Central,Furniture,Bookcases,With Bookcases,937.74,1,0.0,162.1,Standard Class,2025,4,April,0.17,3,No Discount,High
+ORD-1091,2024-11-21,2024-11-25,Stacy Lang,Consumer,South,Furniture,Chairs,Law Chairs,700.98,1,0.2,31.24,First Class,2024,11,November,0.04,4,Medium Discount,High
+ORD-1092,2024-01-20,2024-01-22,Joshua Adkins,Home Office,Central,Office Supplies,Paper,Collection Paper,206.03,2,0.0,20.46,Second Class,2024,1,January,0.1,2,No Discount,Medium
+ORD-1093,2021-09-16,2021-09-18,Anna Mitchell,Consumer,West,Office Supplies,Paper,Against Paper,450.51,2,0.0,51.92,First Class,2021,9,September,0.12,2,No Discount,Medium
+ORD-1094,2023-05-16,2023-05-21,Curtis Wyatt,Consumer,East,Furniture,Chairs,Style Chairs,830.85,7,0.0,133.38,First Class,2023,5,May,0.16,5,No Discount,High
+ORD-1095,2023-04-15,2023-04-17,James Conner,Corporate,South,Technology,Phones,Level Phones,818.0,4,0.2,185.94,First Class,2023,4,April,0.23,2,Medium Discount,High
+ORD-1096,2024-02-01,2024-02-04,Kenneth Hicks,Home Office,Central,Office Supplies,Binders,Image Binders,800.06,6,0.3,80.63,Standard Class,2024,2,February,0.1,3,High Discount,High
+ORD-1097,2024-12-24,2024-12-25,Robert Morgan,Consumer,Central,Furniture,Tables,Skill Tables,219.53,6,0.3,9.22,First Class,2024,12,December,0.04,1,High Discount,Medium
+ORD-1098,2022-01-05,2022-01-09,Carlos Hubbard,Home Office,East,Technology,Copiers,Pressure Copiers,486.44,6,0.1,109.28,Standard Class,2022,1,January,0.22,4,Low Discount,Medium
+ORD-1099,2023-06-02,2023-06-04,Renee Smith,Home Office,Central,Furniture,Tables,Official Tables,861.93,9,0.3,159.48,First Class,2023,6,June,0.19,2,High Discount,High
+ORD-1100,2022-08-13,2022-08-14,Patricia Whitehead,Consumer,West,Office Supplies,Pens,Detail Pens,868.96,4,0.2,183.75,Second Class,2022,8,August,0.21,1,Medium Discount,High
+ORD-1101,2025-03-02,2025-03-06,Kim Chapman,Home Office,West,Technology,Phones,Investment Phones,510.47,6,0.0,33.26,Standard Class,2025,3,March,0.07,4,No Discount,High
+ORD-1102,2023-02-13,2023-02-14,John Rasmussen,Home Office,South,Office Supplies,Pens,Two Pens,365.62,2,0.0,39.06,Standard Class,2023,2,February,0.11,1,No Discount,Medium
+ORD-1103,2023-12-02,2023-12-04,Christine Bowen,Home Office,West,Technology,Accessories,Operation Accessories,892.22,8,0.0,46.53,Standard Class,2023,12,December,0.05,2,No Discount,High
+ORD-1104,2021-12-03,2021-12-07,Richard Bauer,Home Office,South,Technology,Phones,Total Phones,966.4,7,0.2,207.21,First Class,2021,12,December,0.21,4,Medium Discount,High
+ORD-1105,2024-01-22,2024-01-27,Kristina Lawson,Home Office,West,Technology,Machines,Bill Machines,706.54,2,0.0,144.02,Standard Class,2024,1,January,0.2,5,No Discount,High
+ORD-1106,2023-10-04,2023-10-05,Anthony Brown,Corporate,West,Furniture,Furnishings,Concern Furnishings,153.33,8,0.0,9.79,First Class,2023,10,October,0.06,1,No Discount,Medium
+ORD-1107,2022-08-23,2022-08-25,Kara Miller,Corporate,East,Office Supplies,Binders,Hair Binders,980.46,2,0.2,194.22,Same Day,2022,8,August,0.2,2,Medium Discount,High
+ORD-1108,2022-09-17,2022-09-22,Candice Hernandez,Home Office,Central,Technology,Phones,Candidate Phones,687.51,10,0.2,107.62,Second Class,2022,9,September,0.16,5,Medium Discount,High
+ORD-1109,2023-02-04,2023-02-06,Edward Carroll,Home Office,West,Furniture,Furnishings,Fine Furnishings,751.48,10,0.2,123.59,First Class,2023,2,February,0.16,2,Medium Discount,High
+ORD-1110,2024-10-04,2024-10-08,Thomas Miller,Consumer,East,Furniture,Tables,Let Tables,771.01,6,0.2,161.99,Standard Class,2024,10,October,0.21,4,Medium Discount,High
+ORD-1111,2024-01-13,2024-01-16,Russell Mitchell,Home Office,South,Furniture,Furnishings,Him Furnishings,706.22,7,0.1,126.43,First Class,2024,1,January,0.18,3,Low Discount,High
+ORD-1112,2024-07-27,2024-08-01,Jose Perez,Home Office,Central,Technology,Copiers,Race Copiers,873.11,7,0.2,143.15,Second Class,2024,7,July,0.16,5,Medium Discount,High
+ORD-1113,2024-01-10,2024-01-14,Douglas Swanson,Corporate,West,Office Supplies,Paper,Authority Paper,262.45,7,0.1,20.22,Second Class,2024,1,January,0.08,4,Low Discount,Medium
+ORD-1114,2024-06-03,2024-06-07,Mrs. Jennifer Cole,Corporate,East,Furniture,Tables,White Tables,408.3,1,0.3,71.2,First Class,2024,6,June,0.17,4,High Discount,Medium
+ORD-1115,2023-08-18,2023-08-20,Jennifer Nguyen,Consumer,South,Technology,Copiers,Get Copiers,902.37,5,0.3,115.79,Standard Class,2023,8,August,0.13,2,High Discount,High
+ORD-1116,2023-09-07,2023-09-08,James Fleming,Home Office,South,Office Supplies,Labels,From Labels,147.16,3,0.2,21.09,Same Day,2023,9,September,0.14,1,Medium Discount,Medium
+ORD-1117,2023-04-18,2023-04-20,Victoria Owen,Consumer,South,Furniture,Bookcases,Eat Bookcases,74.99,8,0.3,8.6,First Class,2023,4,April,0.11,2,High Discount,Low
+ORD-1118,2024-11-01,2024-11-04,Alan Wong,Corporate,South,Technology,Machines,Magazine Machines,807.94,9,0.1,191.21,First Class,2024,11,November,0.24,3,Low Discount,High
+ORD-1119,2025-01-05,2025-01-09,Danielle Guzman,Consumer,West,Furniture,Furnishings,Recently Furnishings,582.53,5,0.3,60.86,Second Class,2025,1,January,0.1,4,High Discount,High
+ORD-1120,2024-04-26,2024-04-27,Victoria Walker,Corporate,South,Furniture,Furnishings,Executive Furnishings,473.87,10,0.2,66.07,First Class,2024,4,April,0.14,1,Medium Discount,Medium
+ORD-1121,2022-05-26,2022-05-31,Ebony White,Consumer,South,Furniture,Chairs,Person Chairs,216.83,10,0.2,39.86,Standard Class,2022,5,May,0.18,5,Medium Discount,Medium
+ORD-1122,2022-07-04,2022-07-07,Sarah Kennedy,Consumer,East,Technology,Phones,Compare Phones,999.55,8,0.2,152.19,Same Day,2022,7,July,0.15,3,Medium Discount,High
+ORD-1123,2023-11-28,2023-12-01,Michael Hernandez,Home Office,Central,Furniture,Furnishings,American Furnishings,679.92,8,0.2,46.51,Same Day,2023,11,November,0.07,3,Medium Discount,High
+ORD-1124,2023-05-20,2023-05-22,Adrian Martinez,Home Office,Central,Technology,Copiers,Behavior Copiers,56.93,9,0.0,11.66,Second Class,2023,5,May,0.2,2,No Discount,Low
+ORD-1125,2023-02-03,2023-02-07,Monique Rojas,Consumer,Central,Office Supplies,Labels,Quickly Labels,379.44,1,0.2,65.1,First Class,2023,2,February,0.17,4,Medium Discount,Medium
+ORD-1126,2022-06-03,2022-06-08,Ashley Smith,Consumer,East,Furniture,Tables,Enough Tables,446.53,3,0.0,30.51,Same Day,2022,6,June,0.07,5,No Discount,Medium
+ORD-1127,2024-10-01,2024-10-04,Derek West,Home Office,East,Furniture,Furnishings,Present Furnishings,492.41,9,0.2,25.59,Second Class,2024,10,October,0.05,3,Medium Discount,Medium
+ORD-1128,2024-11-24,2024-11-29,Robert Freeman,Corporate,East,Technology,Accessories,Act Accessories,650.08,6,0.2,76.21,Same Day,2024,11,November,0.12,5,Medium Discount,High
+ORD-1129,2021-11-23,2021-11-27,Shelby Mcintyre,Home Office,East,Furniture,Bookcases,Peace Bookcases,175.78,4,0.0,33.98,Second Class,2021,11,November,0.19,4,No Discount,Medium
+ORD-1130,2024-02-13,2024-02-16,Nathan Davis,Consumer,South,Furniture,Tables,Eight Tables,687.18,2,0.2,76.47,First Class,2024,2,February,0.11,3,Medium Discount,High
+ORD-1131,2021-12-28,2022-01-02,Donald Craig,Home Office,South,Technology,Accessories,Deep Accessories,588.42,5,0.3,62.39,Second Class,2021,12,December,0.11,5,High Discount,High
+ORD-1132,2024-01-08,2024-01-13,Christopher Marquez,Corporate,Central,Furniture,Furnishings,Then Furnishings,840.59,5,0.3,142.87,Second Class,2024,1,January,0.17,5,High Discount,High
+ORD-1133,2023-07-10,2023-07-14,Seth Grant,Home Office,South,Office Supplies,Labels,Surface Labels,522.43,6,0.1,38.68,Standard Class,2023,7,July,0.07,4,Low Discount,High
+ORD-1134,2023-12-07,2023-12-08,Andrea Wu,Consumer,Central,Technology,Copiers,Nature Copiers,853.46,8,0.0,72.28,Standard Class,2023,12,December,0.08,1,No Discount,High
+ORD-1135,2022-03-16,2022-03-21,Daniel Oliver,Home Office,South,Technology,Machines,Bit Machines,574.38,7,0.1,139.12,First Class,2022,3,March,0.24,5,Low Discount,High
+ORD-1136,2022-06-30,2022-07-05,Justin Mcknight,Corporate,East,Office Supplies,Labels,Fill Labels,661.51,3,0.3,101.99,First Class,2022,6,June,0.15,5,High Discount,High
+ORD-1137,2025-01-16,2025-01-20,Tracy Bond,Consumer,East,Technology,Accessories,Visit Accessories,195.48,3,0.2,45.83,Same Day,2025,1,January,0.23,4,Medium Discount,Medium
+ORD-1138,2024-11-16,2024-11-20,Justin Weaver,Consumer,West,Furniture,Bookcases,Response Bookcases,782.14,6,0.1,46.18,First Class,2024,11,November,0.06,4,Low Discount,High
+ORD-1139,2021-09-28,2021-10-02,Brian Clark,Home Office,East,Furniture,Chairs,Same Chairs,867.8,5,0.0,191.62,Standard Class,2021,9,September,0.22,4,No Discount,High
+ORD-1140,2021-07-20,2021-07-24,Emily Hill,Home Office,South,Office Supplies,Labels,Just Labels,870.52,1,0.0,67.81,First Class,2021,7,July,0.08,4,No Discount,High
+ORD-1141,2022-04-19,2022-04-23,James Estrada,Corporate,East,Furniture,Chairs,News Chairs,100.32,5,0.2,23.21,Second Class,2022,4,April,0.23,4,Medium Discount,Medium
+ORD-1142,2022-05-12,2022-05-17,Cindy Hardy,Home Office,West,Office Supplies,Pens,Those Pens,827.21,1,0.2,46.23,First Class,2022,5,May,0.06,5,Medium Discount,High
+ORD-1143,2022-08-31,2022-09-02,Andrew Ward,Consumer,South,Office Supplies,Pens,While Pens,935.03,2,0.1,97.49,Standard Class,2022,8,August,0.1,2,Low Discount,High
+ORD-1144,2023-03-13,2023-03-17,Kelly Stuart,Corporate,South,Office Supplies,Labels,Up Labels,376.08,1,0.1,67.37,Same Day,2023,3,March,0.18,4,Low Discount,Medium
+ORD-1145,2023-05-13,2023-05-14,Dennis Carter PhD,Home Office,East,Technology,Phones,Bag Phones,875.39,1,0.3,139.92,Same Day,2023,5,May,0.16,1,High Discount,High
+ORD-1146,2023-09-14,2023-09-18,Pamela Crane,Consumer,West,Furniture,Bookcases,Why Bookcases,564.03,2,0.0,164.82,Same Day,2023,9,September,0.29,4,No Discount,High
+ORD-1147,2023-07-15,2023-07-19,Amber Harrison,Corporate,West,Furniture,Bookcases,Eye Bookcases,735.53,3,0.3,137.75,Same Day,2023,7,July,0.19,4,High Discount,High
+ORD-1148,2022-12-17,2022-12-22,Brenda Hanson,Corporate,Central,Office Supplies,Paper,Notice Paper,791.45,5,0.1,177.06,Second Class,2022,12,December,0.22,5,Low Discount,High
+ORD-1149,2023-08-04,2023-08-07,Todd Roberson,Consumer,West,Office Supplies,Binders,Attention Binders,84.9,8,0.3,7.13,First Class,2023,8,August,0.08,3,High Discount,Low
+ORD-1150,2024-08-31,2024-09-05,Katherine Chaney,Corporate,South,Office Supplies,Pens,Whether Pens,437.06,9,0.2,49.31,Same Day,2024,8,August,0.11,5,Medium Discount,Medium
+ORD-1151,2024-03-26,2024-03-27,Rebecca Dyer,Corporate,West,Office Supplies,Labels,More Labels,623.48,2,0.2,40.53,Same Day,2024,3,March,0.07,1,Medium Discount,High
+ORD-1152,2024-12-27,2024-12-30,Christina Alvarez,Home Office,East,Office Supplies,Paper,Early Paper,794.68,9,0.2,112.43,First Class,2024,12,December,0.14,3,Medium Discount,High
+ORD-1153,2023-03-13,2023-03-15,Donna Roach,Home Office,Central,Furniture,Furnishings,Step Furnishings,860.67,6,0.1,86.66,Standard Class,2023,3,March,0.1,2,Low Discount,High
+ORD-1154,2021-09-26,2021-09-29,Ronnie Sanchez,Corporate,West,Furniture,Bookcases,Enough Bookcases,680.23,9,0.3,26.31,Second Class,2021,9,September,0.04,3,High Discount,High
+ORD-1155,2023-11-04,2023-11-07,Haley Strickland,Home Office,East,Technology,Phones,Include Phones,815.35,6,0.0,165.03,First Class,2023,11,November,0.2,3,No Discount,High
+ORD-1156,2024-09-01,2024-09-05,Thomas Mullen,Home Office,West,Furniture,Tables,Authority Tables,429.79,8,0.0,44.65,Same Day,2024,9,September,0.1,4,No Discount,Medium
+ORD-1157,2022-11-09,2022-11-14,Adam Bishop,Corporate,South,Technology,Machines,Foreign Machines,478.42,2,0.2,32.91,First Class,2022,11,November,0.07,5,Medium Discount,Medium
+ORD-1158,2021-06-06,2021-06-08,Christopher Hicks,Consumer,Central,Technology,Phones,Blood Phones,84.31,10,0.3,17.22,First Class,2021,6,June,0.2,2,High Discount,Low
+ORD-1159,2025-01-17,2025-01-19,Jill Hamilton,Home Office,West,Office Supplies,Binders,Left Binders,692.16,3,0.2,60.38,Standard Class,2025,1,January,0.09,2,Medium Discount,High
+ORD-1160,2024-11-10,2024-11-11,Aaron Carter,Home Office,East,Technology,Copiers,Happen Copiers,439.31,7,0.2,26.71,Same Day,2024,11,November,0.06,1,Medium Discount,Medium
+ORD-1161,2022-10-01,2022-10-05,Dylan Wise MD,Home Office,Central,Technology,Accessories,History Accessories,647.29,1,0.3,121.59,First Class,2022,10,October,0.19,4,High Discount,High
+ORD-1162,2022-06-02,2022-06-03,Megan Hernandez,Corporate,East,Furniture,Bookcases,Yes Bookcases,389.46,5,0.1,59.74,Same Day,2022,6,June,0.15,1,Low Discount,Medium
+ORD-1163,2023-02-07,2023-02-12,Bradley Petersen,Home Office,West,Technology,Copiers,Attention Copiers,363.87,8,0.2,27.88,Second Class,2023,2,February,0.08,5,Medium Discount,Medium
+ORD-1164,2024-02-29,2024-03-02,Jay Thornton,Home Office,Central,Technology,Accessories,Character Accessories,601.29,5,0.2,72.88,Second Class,2024,2,February,0.12,2,Medium Discount,High
+ORD-1165,2021-04-26,2021-04-28,Paul Meyers,Home Office,East,Furniture,Tables,Weight Tables,93.77,7,0.1,14.44,Second Class,2021,4,April,0.15,2,Low Discount,Low
+ORD-1166,2024-01-23,2024-01-27,Jonathan Nelson,Corporate,East,Furniture,Chairs,Hand Chairs,961.66,8,0.3,40.57,First Class,2024,1,January,0.04,4,High Discount,High
+ORD-1167,2021-04-30,2021-05-04,Mary Diaz,Consumer,West,Technology,Copiers,Seem Copiers,113.34,10,0.1,15.49,First Class,2021,4,April,0.14,4,Low Discount,Medium
+ORD-1168,2022-04-01,2022-04-02,Marcia Robinson,Consumer,West,Furniture,Tables,Position Tables,225.56,6,0.3,11.76,Standard Class,2022,4,April,0.05,1,High Discount,Medium
+ORD-1169,2024-08-06,2024-08-08,Jamie Williams,Consumer,West,Office Supplies,Labels,By Labels,377.16,9,0.3,24.25,Standard Class,2024,8,August,0.06,2,High Discount,Medium
+ORD-1170,2024-03-14,2024-03-15,Tamara Kelly,Consumer,Central,Technology,Accessories,Send Accessories,34.55,10,0.2,7.51,Second Class,2024,3,March,0.22,1,Medium Discount,Low
+ORD-1171,2022-03-15,2022-03-19,Cheryl Lang,Home Office,South,Technology,Copiers,Marriage Copiers,782.74,3,0.0,97.5,Standard Class,2022,3,March,0.12,4,No Discount,High
+ORD-1172,2022-06-26,2022-06-28,Douglas Snyder,Corporate,Central,Technology,Machines,Year Machines,682.19,1,0.0,93.09,Same Day,2022,6,June,0.14,2,No Discount,High
+ORD-1173,2022-03-01,2022-03-04,Daniel Rodriguez,Consumer,South,Furniture,Bookcases,Newspaper Bookcases,967.16,9,0.2,103.84,First Class,2022,3,March,0.11,3,Medium Discount,High
+ORD-1174,2022-09-06,2022-09-10,Hannah Reilly,Home Office,East,Office Supplies,Binders,Fine Binders,661.68,10,0.3,86.05,Same Day,2022,9,September,0.13,4,High Discount,High
+ORD-1175,2021-07-13,2021-07-18,Jeremy Lopez,Corporate,South,Technology,Accessories,Knowledge Accessories,626.35,10,0.2,58.74,Standard Class,2021,7,July,0.09,5,Medium Discount,High
+ORD-1176,2025-02-17,2025-02-19,Mr. Samuel Stone DDS,Corporate,Central,Technology,Accessories,Finally Accessories,737.16,10,0.3,95.14,Same Day,2025,2,February,0.13,2,High Discount,High
+ORD-1177,2024-03-03,2024-03-05,Rebecca Bauer,Consumer,East,Furniture,Bookcases,Feel Bookcases,826.92,9,0.1,54.57,First Class,2024,3,March,0.07,2,Low Discount,High
+ORD-1178,2023-05-19,2023-05-21,David Franco,Home Office,Central,Technology,Phones,Force Phones,800.98,7,0.0,51.83,Same Day,2023,5,May,0.06,2,No Discount,High
+ORD-1179,2022-02-27,2022-03-02,Henry Gutierrez,Consumer,Central,Office Supplies,Labels,Because Labels,928.45,9,0.0,51.61,Standard Class,2022,2,February,0.06,3,No Discount,High
+ORD-1180,2023-12-08,2023-12-11,Billy Morgan,Consumer,South,Office Supplies,Paper,Line Paper,872.18,3,0.0,190.32,First Class,2023,12,December,0.22,3,No Discount,High
+ORD-1181,2024-01-25,2024-01-26,Tracie Lang,Consumer,South,Office Supplies,Pens,Person Pens,984.14,3,0.0,174.36,Standard Class,2024,1,January,0.18,1,No Discount,High
+ORD-1182,2023-10-25,2023-10-30,Richard Kim,Corporate,South,Technology,Copiers,Second Copiers,713.79,9,0.1,119.45,Standard Class,2023,10,October,0.17,5,Low Discount,High
+ORD-1183,2024-07-19,2024-07-20,Ronald Mccann,Consumer,East,Office Supplies,Binders,Son Binders,581.21,1,0.3,70.64,Standard Class,2024,7,July,0.12,1,High Discount,High
+ORD-1184,2022-06-29,2022-06-30,Jared Cardenas,Corporate,West,Technology,Phones,Memory Phones,73.48,9,0.1,16.86,Standard Class,2022,6,June,0.23,1,Low Discount,Low
+ORD-1185,2024-06-18,2024-06-20,Chelsea Hicks,Corporate,West,Office Supplies,Pens,Use Pens,737.66,4,0.3,62.8,First Class,2024,6,June,0.09,2,High Discount,High
+ORD-1186,2023-04-06,2023-04-07,Thomas Miller,Home Office,East,Furniture,Chairs,Mrs Chairs,804.61,10,0.3,35.4,Same Day,2023,4,April,0.04,1,High Discount,High
+ORD-1187,2024-01-21,2024-01-26,Willie Hurley,Home Office,South,Furniture,Bookcases,Business Bookcases,615.05,8,0.0,53.42,Standard Class,2024,1,January,0.09,5,No Discount,High
+ORD-1188,2021-10-31,2021-11-04,Jamie Smith,Home Office,Central,Furniture,Chairs,Score Chairs,215.96,6,0.1,28.3,First Class,2021,10,October,0.13,4,Low Discount,Medium
+ORD-1189,2023-02-06,2023-02-11,Emily White,Home Office,West,Office Supplies,Labels,Him Labels,346.17,1,0.2,53.2,First Class,2023,2,February,0.15,5,Medium Discount,Medium
+ORD-1190,2024-07-06,2024-07-09,Sonya King,Home Office,South,Office Supplies,Binders,Fly Binders,808.65,3,0.3,91.62,Standard Class,2024,7,July,0.11,3,High Discount,High
+ORD-1191,2022-03-19,2022-03-21,James Newman,Consumer,West,Office Supplies,Paper,Maybe Paper,221.25,5,0.3,35.98,Second Class,2022,3,March,0.16,2,High Discount,Medium
+ORD-1192,2024-10-25,2024-10-30,Marcus Snyder,Home Office,South,Office Supplies,Binders,Task Binders,45.98,6,0.1,3.13,Same Day,2024,10,October,0.07,5,Low Discount,Low
+ORD-1193,2025-02-03,2025-02-08,Kathryn Baker,Corporate,West,Technology,Accessories,Cell Accessories,767.23,3,0.2,108.88,First Class,2025,2,February,0.14,5,Medium Discount,High
+ORD-1194,2021-09-11,2021-09-15,Lori Kelley,Home Office,South,Technology,Accessories,Affect Accessories,57.59,2,0.1,11.47,Second Class,2021,9,September,0.2,4,Low Discount,Low
+ORD-1195,2023-07-29,2023-08-02,Michael Lopez,Corporate,South,Office Supplies,Binders,Suffer Binders,143.1,3,0.3,13.57,Standard Class,2023,7,July,0.09,4,High Discount,Medium
+ORD-1196,2021-12-18,2021-12-20,Paul Alvarez DDS,Home Office,South,Technology,Copiers,Understand Copiers,573.98,5,0.2,34.06,Standard Class,2021,12,December,0.06,2,Medium Discount,High
+ORD-1197,2021-10-24,2021-10-25,Steven Gray,Home Office,South,Furniture,Tables,Their Tables,458.86,3,0.2,52.8,First Class,2021,10,October,0.12,1,Medium Discount,Medium
+ORD-1198,2024-11-21,2024-11-22,Kelly Long,Home Office,Central,Office Supplies,Paper,Kid Paper,954.78,4,0.0,212.68,Same Day,2024,11,November,0.22,1,No Discount,High
+ORD-1199,2021-08-26,2021-08-27,Joseph Gross,Consumer,South,Office Supplies,Binders,Hit Binders,435.93,10,0.2,80.48,First Class,2021,8,August,0.18,1,Medium Discount,Medium
+ORD-1200,2024-12-25,2024-12-26,Kimberly Burton,Consumer,West,Furniture,Furnishings,Performance Furnishings,264.68,1,0.0,31.13,Same Day,2024,12,December,0.12,1,No Discount,Medium
+ORD-1201,2021-06-27,2021-06-30,Teresa Hanson,Corporate,Central,Furniture,Chairs,Politics Chairs,47.95,2,0.2,4.5,First Class,2021,6,June,0.09,3,Medium Discount,Low
+ORD-1202,2022-02-17,2022-02-18,Misty Perez,Corporate,Central,Furniture,Bookcases,Forget Bookcases,758.63,3,0.1,181.34,Same Day,2022,2,February,0.24,1,Low Discount,High
+ORD-1203,2022-02-04,2022-02-05,Rachel Jackson,Consumer,West,Technology,Accessories,Night Accessories,857.37,5,0.1,76.24,First Class,2022,2,February,0.09,1,Low Discount,High
+ORD-1204,2023-05-12,2023-05-13,Anthony Jacobson,Corporate,South,Technology,Copiers,Eight Copiers,26.58,10,0.0,5.92,Standard Class,2023,5,May,0.22,1,No Discount,Low
+ORD-1205,2021-08-15,2021-08-19,Vincent James,Home Office,West,Office Supplies,Paper,On Paper,427.22,8,0.1,20.12,Same Day,2021,8,August,0.05,4,Low Discount,Medium
+ORD-1206,2025-01-21,2025-01-26,Troy Brown,Corporate,South,Technology,Accessories,Show Accessories,748.03,2,0.3,83.45,Standard Class,2025,1,January,0.11,5,High Discount,High
+ORD-1207,2024-09-13,2024-09-17,Amanda Mayer,Corporate,East,Technology,Accessories,Network Accessories,729.93,8,0.0,146.91,Same Day,2024,9,September,0.2,4,No Discount,High
+ORD-1208,2023-09-11,2023-09-12,James Fisher,Consumer,Central,Office Supplies,Pens,Truth Pens,127.78,6,0.1,19.85,Standard Class,2023,9,September,0.16,1,Low Discount,Medium
+ORD-1209,2024-10-23,2024-10-26,Janice Harris,Home Office,East,Technology,Copiers,Lawyer Copiers,936.25,8,0.2,61.45,Same Day,2024,10,October,0.07,3,Medium Discount,High
+ORD-1210,2022-08-16,2022-08-21,Andrew James,Consumer,Central,Furniture,Bookcases,Must Bookcases,166.35,4,0.2,24.5,Second Class,2022,8,August,0.15,5,Medium Discount,Medium
+ORD-1211,2024-11-01,2024-11-04,Jordan Wallace,Consumer,West,Furniture,Tables,Measure Tables,260.0,5,0.1,41.86,Same Day,2024,11,November,0.16,3,Low Discount,Medium
+ORD-1212,2021-08-21,2021-08-26,Sara Maddox DDS,Home Office,West,Office Supplies,Labels,Eye Labels,330.02,3,0.3,56.51,First Class,2021,8,August,0.17,5,High Discount,Medium
+ORD-1213,2024-12-05,2024-12-09,Christina Barnett,Corporate,East,Office Supplies,Binders,Role Binders,241.62,4,0.0,18.89,Second Class,2024,12,December,0.08,4,No Discount,Medium
+ORD-1214,2022-09-08,2022-09-10,Angel Johnson MD,Consumer,West,Technology,Machines,The Machines,343.46,1,0.3,20.95,First Class,2022,9,September,0.06,2,High Discount,Medium
+ORD-1215,2023-01-09,2023-01-11,Sara Franklin,Home Office,Central,Office Supplies,Paper,Discussion Paper,132.11,4,0.3,27.63,Standard Class,2023,1,January,0.21,2,High Discount,Medium
+ORD-1216,2022-07-25,2022-07-28,Jesus Delgado,Consumer,South,Office Supplies,Paper,Expect Paper,72.6,3,0.0,6.96,Second Class,2022,7,July,0.1,3,No Discount,Low
+ORD-1217,2022-07-20,2022-07-23,Gregory Zavala,Corporate,South,Office Supplies,Paper,On Paper,565.53,10,0.2,121.96,First Class,2022,7,July,0.22,3,Medium Discount,High
+ORD-1218,2025-04-07,2025-04-08,David Smith,Home Office,South,Furniture,Bookcases,Nice Bookcases,254.88,10,0.3,23.68,Second Class,2025,4,April,0.09,1,High Discount,Medium
+ORD-1219,2024-11-05,2024-11-07,Felicia Salazar,Consumer,Central,Furniture,Chairs,Teach Chairs,802.79,7,0.0,85.44,First Class,2024,11,November,0.11,2,No Discount,High
+ORD-1220,2021-09-08,2021-09-11,Isaac Clark,Corporate,Central,Technology,Phones,Organization Phones,392.49,8,0.2,70.39,Second Class,2021,9,September,0.18,3,Medium Discount,Medium
+ORD-1221,2024-03-16,2024-03-20,Sierra Shaw,Home Office,East,Furniture,Furnishings,Increase Furnishings,125.42,10,0.1,8.2,Second Class,2024,3,March,0.07,4,Low Discount,Medium
+ORD-1222,2023-10-12,2023-10-14,Daniel Gilbert,Corporate,East,Office Supplies,Pens,Accept Pens,508.79,4,0.3,77.87,Same Day,2023,10,October,0.15,2,High Discount,High
+ORD-1223,2023-12-12,2023-12-15,Julia Moreno,Consumer,West,Technology,Accessories,Car Accessories,120.44,2,0.1,30.29,Second Class,2023,12,December,0.25,3,Low Discount,Medium
+ORD-1224,2022-05-07,2022-05-11,Melissa Juarez,Home Office,West,Furniture,Bookcases,Easy Bookcases,260.83,1,0.2,25.25,First Class,2022,5,May,0.1,4,Medium Discount,Medium
+ORD-1225,2022-02-10,2022-02-15,Mary Nelson,Corporate,West,Office Supplies,Labels,Sing Labels,33.22,10,0.2,1.34,Second Class,2022,2,February,0.04,5,Medium Discount,Low
+ORD-1226,2021-07-09,2021-07-11,Jamie Hoffman,Corporate,South,Technology,Copiers,Change Copiers,535.17,3,0.0,157.65,First Class,2021,7,July,0.29,2,No Discount,High
+ORD-1227,2023-06-21,2023-06-25,Larry Wilson,Consumer,Central,Office Supplies,Pens,The Pens,274.34,1,0.0,55.35,Standard Class,2023,6,June,0.2,4,No Discount,Medium
+ORD-1228,2022-11-24,2022-11-29,Taylor Lawrence,Home Office,Central,Technology,Phones,Conference Phones,285.0,2,0.3,19.61,Second Class,2022,11,November,0.07,5,High Discount,Medium
+ORD-1229,2022-04-03,2022-04-05,Jessica Roberts,Corporate,West,Office Supplies,Paper,Perhaps Paper,290.4,3,0.3,50.11,Same Day,2022,4,April,0.17,2,High Discount,Medium
+ORD-1230,2023-05-23,2023-05-27,Carol Nielsen,Corporate,East,Office Supplies,Binders,Pull Binders,729.81,8,0.2,54.41,Same Day,2023,5,May,0.07,4,Medium Discount,High
+ORD-1231,2023-09-20,2023-09-23,Thomas Walker,Consumer,South,Office Supplies,Pens,Certainly Pens,798.2,2,0.1,83.79,First Class,2023,9,September,0.1,3,Low Discount,High
+ORD-1232,2021-08-11,2021-08-15,John Clark,Consumer,West,Technology,Machines,Late Machines,190.23,10,0.0,44.13,Second Class,2021,8,August,0.23,4,No Discount,Medium
+ORD-1233,2023-12-05,2023-12-07,Stephanie Medina,Consumer,East,Office Supplies,Pens,Television Pens,787.55,9,0.2,127.94,Second Class,2023,12,December,0.16,2,Medium Discount,High
+ORD-1234,2022-02-18,2022-02-19,Monica Ingram,Consumer,East,Furniture,Bookcases,Kitchen Bookcases,971.81,10,0.2,140.96,Second Class,2022,2,February,0.15,1,Medium Discount,High
+ORD-1235,2022-04-29,2022-04-30,Jesse Coleman,Corporate,South,Furniture,Furnishings,Foreign Furnishings,486.77,7,0.0,63.53,Standard Class,2022,4,April,0.13,1,No Discount,Medium
+ORD-1236,2023-07-17,2023-07-18,Taylor Bullock,Home Office,West,Technology,Accessories,Get Accessories,882.73,2,0.3,128.36,First Class,2023,7,July,0.15,1,High Discount,High
+ORD-1237,2023-04-09,2023-04-10,Brett Walker,Corporate,East,Furniture,Bookcases,Authority Bookcases,263.99,1,0.2,57.18,Standard Class,2023,4,April,0.22,1,Medium Discount,Medium
+ORD-1238,2022-10-15,2022-10-16,Laurie Willis,Consumer,East,Office Supplies,Paper,Base Paper,898.82,7,0.1,187.31,Same Day,2022,10,October,0.21,1,Low Discount,High
+ORD-1239,2023-08-23,2023-08-25,Suzanne Jackson,Corporate,South,Technology,Accessories,Certain Accessories,281.87,6,0.0,23.36,Standard Class,2023,8,August,0.08,2,No Discount,Medium
+ORD-1240,2021-06-11,2021-06-13,Shane Combs,Consumer,Central,Office Supplies,Binders,Television Binders,712.53,10,0.3,32.12,Same Day,2021,6,June,0.05,2,High Discount,High
+ORD-1241,2024-06-11,2024-06-12,Ricardo Ball,Consumer,Central,Furniture,Furnishings,Half Furnishings,729.25,3,0.0,172.58,Second Class,2024,6,June,0.24,1,No Discount,High
+ORD-1242,2025-03-28,2025-04-02,Kaylee Bautista,Home Office,South,Technology,Machines,Catch Machines,162.68,9,0.2,19.09,Same Day,2025,3,March,0.12,5,Medium Discount,Medium
+ORD-1243,2021-05-08,2021-05-11,Jacob Kelly,Corporate,South,Furniture,Bookcases,Onto Bookcases,829.09,5,0.3,100.25,Second Class,2021,5,May,0.12,3,High Discount,High
+ORD-1244,2022-07-18,2022-07-19,Cindy Torres,Home Office,Central,Furniture,Tables,Reach Tables,475.55,2,0.2,83.01,Same Day,2022,7,July,0.17,1,Medium Discount,Medium
+ORD-1245,2022-11-09,2022-11-14,Veronica Daniel,Home Office,East,Office Supplies,Pens,Benefit Pens,78.36,8,0.2,7.15,Second Class,2022,11,November,0.09,5,Medium Discount,Low
+ORD-1246,2023-12-08,2023-12-11,Katie Rosales,Home Office,East,Furniture,Bookcases,Begin Bookcases,957.82,8,0.3,101.1,Same Day,2023,12,December,0.11,3,High Discount,High
+ORD-1247,2021-12-18,2021-12-23,Rita Meadows,Corporate,West,Furniture,Tables,Box Tables,383.23,10,0.0,97.48,Second Class,2021,12,December,0.25,5,No Discount,Medium
+ORD-1248,2023-10-30,2023-10-31,Stacy Moore,Corporate,South,Office Supplies,Binders,Range Binders,647.77,9,0.1,134.57,Second Class,2023,10,October,0.21,1,Low Discount,High
+ORD-1249,2024-07-24,2024-07-26,Angela Gilbert,Consumer,West,Office Supplies,Pens,Music Pens,593.03,3,0.2,121.96,First Class,2024,7,July,0.21,2,Medium Discount,High
+ORD-1250,2022-05-17,2022-05-18,Barbara Martinez,Home Office,West,Furniture,Chairs,Election Chairs,196.92,4,0.2,22.46,Standard Class,2022,5,May,0.11,1,Medium Discount,Medium
+ORD-1251,2021-06-03,2021-06-07,Kyle Ramirez,Corporate,Central,Furniture,Tables,Worker Tables,408.04,8,0.2,52.12,Second Class,2021,6,June,0.13,4,Medium Discount,Medium
+ORD-1252,2023-06-25,2023-06-29,Erika Arnold,Consumer,East,Furniture,Chairs,Company Chairs,156.26,8,0.2,18.91,Second Class,2023,6,June,0.12,4,Medium Discount,Medium
+ORD-1253,2021-08-14,2021-08-18,David Rodriguez,Corporate,East,Office Supplies,Binders,Wind Binders,675.56,7,0.3,91.48,First Class,2021,8,August,0.14,4,High Discount,High
+ORD-1254,2021-08-23,2021-08-27,Paul Williams,Consumer,Central,Office Supplies,Pens,Who Pens,101.65,3,0.1,25.27,Same Day,2021,8,August,0.25,4,Low Discount,Medium
+ORD-1255,2022-11-15,2022-11-20,Regina Villegas,Corporate,West,Office Supplies,Labels,Along Labels,191.55,1,0.0,46.21,Second Class,2022,11,November,0.24,5,No Discount,Medium
+ORD-1256,2024-02-08,2024-02-13,Gregory Roth,Consumer,East,Furniture,Furnishings,Hundred Furnishings,511.32,8,0.0,150.9,First Class,2024,2,February,0.3,5,No Discount,High
+ORD-1257,2021-06-03,2021-06-06,Gary Gonzalez,Consumer,Central,Furniture,Tables,Another Tables,436.24,2,0.0,89.35,First Class,2021,6,June,0.2,3,No Discount,Medium
+ORD-1258,2022-09-20,2022-09-25,Daniel Gomez,Corporate,South,Technology,Phones,Market Phones,960.27,9,0.2,223.97,Second Class,2022,9,September,0.23,5,Medium Discount,High
+ORD-1259,2023-03-17,2023-03-20,Yvonne Kennedy,Corporate,South,Furniture,Bookcases,Spend Bookcases,605.58,7,0.1,128.55,Same Day,2023,3,March,0.21,3,Low Discount,High
+ORD-1260,2023-05-02,2023-05-04,April Brown,Consumer,West,Office Supplies,Pens,Us Pens,537.27,6,0.3,29.31,Second Class,2023,5,May,0.05,2,High Discount,High
+ORD-1261,2024-06-15,2024-06-18,Madeline Hawkins,Home Office,Central,Technology,Machines,Building Machines,658.4,8,0.3,105.64,Standard Class,2024,6,June,0.16,3,High Discount,High
+ORD-1262,2021-10-20,2021-10-23,Sheila Parks,Corporate,East,Furniture,Bookcases,Strategy Bookcases,278.71,6,0.3,23.1,Standard Class,2021,10,October,0.08,3,High Discount,Medium
+ORD-1263,2024-12-13,2024-12-16,Gregory Wright,Home Office,East,Furniture,Tables,You Tables,270.42,6,0.0,45.39,First Class,2024,12,December,0.17,3,No Discount,Medium
+ORD-1264,2023-09-19,2023-09-23,Lisa Jacobs,Consumer,Central,Furniture,Tables,Forward Tables,621.79,4,0.1,130.88,First Class,2023,9,September,0.21,4,Low Discount,High
+ORD-1265,2022-10-07,2022-10-08,Samantha Heath,Corporate,South,Furniture,Bookcases,Issue Bookcases,102.06,8,0.2,9.35,Second Class,2022,10,October,0.09,1,Medium Discount,Medium
+ORD-1266,2025-01-28,2025-01-29,Pamela Miller,Corporate,East,Office Supplies,Binders,Commercial Binders,293.44,2,0.1,57.91,Second Class,2025,1,January,0.2,1,Low Discount,Medium
+ORD-1267,2021-07-09,2021-07-14,Jessica Hernandez,Home Office,East,Furniture,Chairs,Shake Chairs,497.02,6,0.0,60.75,Standard Class,2021,7,July,0.12,5,No Discount,Medium
+ORD-1268,2023-05-31,2023-06-05,Mr. Luis Jackson Jr.,Corporate,Central,Furniture,Furnishings,Yes Furnishings,189.72,7,0.2,32.64,Second Class,2023,5,May,0.17,5,Medium Discount,Medium
+ORD-1269,2021-12-28,2021-12-30,Andrew Reyes,Home Office,Central,Office Supplies,Binders,Sing Binders,321.65,2,0.1,59.67,First Class,2021,12,December,0.19,2,Low Discount,Medium
+ORD-1270,2022-06-07,2022-06-11,Joseph Francis,Corporate,Central,Technology,Phones,Civil Phones,152.39,1,0.2,34.88,Standard Class,2022,6,June,0.23,4,Medium Discount,Medium
+ORD-1271,2022-09-05,2022-09-06,Matthew Solis,Consumer,Central,Furniture,Bookcases,Miss Bookcases,806.06,6,0.1,140.02,Same Day,2022,9,September,0.17,1,Low Discount,High
+ORD-1272,2023-09-15,2023-09-19,Jaime Owens,Home Office,East,Office Supplies,Labels,Modern Labels,762.23,5,0.2,37.82,Second Class,2023,9,September,0.05,4,Medium Discount,High
+ORD-1273,2021-05-20,2021-05-25,Alyssa Moore,Home Office,Central,Office Supplies,Pens,Much Pens,384.81,8,0.2,74.1,First Class,2021,5,May,0.19,5,Medium Discount,Medium
+ORD-1274,2022-01-02,2022-01-06,Logan Santiago,Corporate,South,Office Supplies,Paper,Whole Paper,210.13,3,0.1,23.47,Second Class,2022,1,January,0.11,4,Low Discount,Medium
+ORD-1275,2022-12-06,2022-12-08,Stacy Snow,Home Office,West,Technology,Machines,Rock Machines,181.52,9,0.1,21.81,First Class,2022,12,December,0.12,2,Low Discount,Medium
+ORD-1276,2022-05-10,2022-05-12,Deborah Rodriguez,Home Office,Central,Office Supplies,Pens,Stop Pens,584.53,8,0.0,138.25,Same Day,2022,5,May,0.24,2,No Discount,High
+ORD-1277,2022-05-30,2022-06-04,William Spears,Home Office,West,Office Supplies,Binders,Recognize Binders,664.01,2,0.2,109.43,Standard Class,2022,5,May,0.16,5,Medium Discount,High
+ORD-1278,2022-11-06,2022-11-09,Kelly Davis,Corporate,South,Office Supplies,Pens,Congress Pens,454.27,9,0.1,52.06,Standard Class,2022,11,November,0.11,3,Low Discount,Medium
+ORD-1279,2025-03-31,2025-04-02,Amy Coleman,Home Office,South,Furniture,Tables,Along Tables,883.25,7,0.3,97.68,Standard Class,2025,3,March,0.11,2,High Discount,High
+ORD-1280,2024-12-08,2024-12-09,Mrs. Amanda Williams,Corporate,Central,Technology,Accessories,Who Accessories,988.01,5,0.1,214.36,First Class,2024,12,December,0.22,1,Low Discount,High
+ORD-1281,2022-04-12,2022-04-15,Christopher Ramirez,Home Office,Central,Office Supplies,Paper,Form Paper,62.37,8,0.3,10.48,Second Class,2022,4,April,0.17,3,High Discount,Low
+ORD-1282,2023-07-01,2023-07-04,Courtney White,Consumer,East,Office Supplies,Labels,Policy Labels,951.96,6,0.3,79.27,Second Class,2023,7,July,0.08,3,High Discount,High
+ORD-1283,2024-08-24,2024-08-26,Haley Davenport,Corporate,West,Technology,Accessories,Most Accessories,514.34,3,0.1,25.45,First Class,2024,8,August,0.05,2,Low Discount,High
+ORD-1284,2023-03-08,2023-03-11,Brian Clarke,Consumer,East,Office Supplies,Binders,Pattern Binders,540.74,2,0.1,48.75,Second Class,2023,3,March,0.09,3,Low Discount,High
+ORD-1285,2024-02-15,2024-02-16,Katie Rangel,Home Office,West,Technology,Accessories,Because Accessories,260.12,10,0.1,21.24,Same Day,2024,2,February,0.08,1,Low Discount,Medium
+ORD-1286,2022-01-17,2022-01-20,Ms. Cynthia Ellison,Home Office,Central,Furniture,Bookcases,Opportunity Bookcases,309.22,8,0.2,45.71,Second Class,2022,1,January,0.15,3,Medium Discount,Medium
+ORD-1287,2021-10-22,2021-10-27,Amy Nelson,Consumer,Central,Technology,Copiers,According Copiers,838.29,2,0.0,248.76,First Class,2021,10,October,0.3,5,No Discount,High
+ORD-1288,2023-02-24,2023-03-01,Sarah Kemp,Home Office,East,Office Supplies,Paper,Nearly Paper,696.0,8,0.2,65.71,Second Class,2023,2,February,0.09,5,Medium Discount,High
+ORD-1289,2023-03-09,2023-03-13,Michael Clark,Corporate,East,Furniture,Furnishings,Decade Furnishings,403.5,8,0.0,65.86,Same Day,2023,3,March,0.16,4,No Discount,Medium
+ORD-1290,2023-12-22,2023-12-26,Kristin Patel,Home Office,West,Office Supplies,Paper,Crime Paper,687.26,10,0.0,164.58,Second Class,2023,12,December,0.24,4,No Discount,High
+ORD-1291,2025-01-17,2025-01-19,James Sullivan,Home Office,East,Office Supplies,Binders,Control Binders,836.92,6,0.2,165.43,Second Class,2025,1,January,0.2,2,Medium Discount,High
+ORD-1292,2024-10-29,2024-10-31,Robert Brown,Home Office,Central,Technology,Phones,Ready Phones,532.22,9,0.1,138.46,First Class,2024,10,October,0.26,2,Low Discount,High
+ORD-1293,2022-12-07,2022-12-12,Albert Walker,Consumer,West,Furniture,Bookcases,Nation Bookcases,809.13,6,0.0,127.28,Standard Class,2022,12,December,0.16,5,No Discount,High
+ORD-1294,2024-07-11,2024-07-13,Brandon Saunders,Home Office,Central,Office Supplies,Pens,Compare Pens,920.29,1,0.0,244.59,Standard Class,2024,7,July,0.27,2,No Discount,High
+ORD-1295,2023-11-17,2023-11-21,David French,Home Office,Central,Furniture,Bookcases,Everyone Bookcases,272.93,1,0.2,19.02,First Class,2023,11,November,0.07,4,Medium Discount,Medium
+ORD-1296,2024-01-24,2024-01-27,Deborah Dalton,Home Office,East,Office Supplies,Labels,Number Labels,330.76,2,0.0,68.77,Standard Class,2024,1,January,0.21,3,No Discount,Medium
+ORD-1297,2022-05-23,2022-05-26,Kimberly James,Corporate,South,Office Supplies,Pens,The Pens,57.95,7,0.1,10.86,First Class,2022,5,May,0.19,3,Low Discount,Low
+ORD-1298,2024-03-29,2024-04-02,Joshua Carter,Corporate,Central,Technology,Accessories,Kitchen Accessories,356.37,3,0.1,24.56,Same Day,2024,3,March,0.07,4,Low Discount,Medium
+ORD-1299,2024-11-08,2024-11-10,Ashley Gomez,Consumer,South,Office Supplies,Pens,Natural Pens,906.58,2,0.3,123.82,First Class,2024,11,November,0.14,2,High Discount,High
